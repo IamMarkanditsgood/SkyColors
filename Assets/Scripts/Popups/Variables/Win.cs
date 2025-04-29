@@ -11,4 +11,9 @@ public class Win : BasicPopup
     public override void SetPopup()
     {
     }
+    public override void Hide()
+    {
+        base.Hide();
+        UIManager.Instance.ShowScreen(ScreenTypes.Home);
+    }
 }
