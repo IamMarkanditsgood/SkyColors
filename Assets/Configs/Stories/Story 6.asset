@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 56a58b26046dd6a499a07c1a4762db7c, type: 3}
+  m_Name: Story 6
+  m_EditorClassIdentifier: 
+  _image: {fileID: 21300000, guid: a1c9f8ea5d9e163488ce3144aa2e5ddd, type: 3}
+  _title: The Lost Compass
+  _description: "In the wide desert, where sand stretched beyond the horizon, navigation
+    wasn't easy. Pilots relied on maps, instincts \u2014 and sometimes, a little
+    luck. Maya was delivering supplies across the dunes when a fierce sandstorm swallowed
+    the sky. Visibility dropped to almost nothing. In the chaos, her old compass
+    \u2014 the one her grandfather had given her \u2014 snapped off its mount and
+    disappeared somewhere in the cockpit. For a moment, fear gripped her. Alone,
+    lost, and with no clear direction. But then Maya remembered her grandfather's
+    words: \"Sometimes, you don't need a compass. Sometimes, you follow the sky you
+    trust.\" She took a deep breath, steadied the plane, and focused on the shape
+    of the dunes below, the color of the light, the feel of the wind. Hours later,
+    tired but determined, she spotted the landing strip \u2014 a small dark line
+    in a sea of gold. When she touched down, she laughed \u2014 a wild, relieved
+    laugh \u2014 and decided to leave the broken compass just where it had fallen.
+    Because some journeys, she realized, are meant to be guided by the heart."

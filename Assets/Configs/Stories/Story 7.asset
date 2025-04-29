@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 56a58b26046dd6a499a07c1a4762db7c, type: 3}
+  m_Name: Story 7
+  m_EditorClassIdentifier: 
+  _image: {fileID: 21300000, guid: 9046eba24dd2a704c8f2b287384fa5c8, type: 3}
+  _title: The Music of the Sky
+  _description: "In a small town by the cliffs, there was an old belief: if you flew
+    above the ocean at sunrise, you could hear the sky sing. Theo, a young pilot
+    with a beat-up yellow plane, always laughed at the legend. But one morning, curious
+    and restless, he decided to find out for himself. He took off just before dawn.
+    The sea below was a dark mirror, the cliffs a sleeping giant. As the first rays
+    of sunlight broke across the water, the wind shifted \u2014 and Theo heard it:
+    a soft, rising hum, like a distant choir. It wasn't a song you could catch or
+    record. It was the music of the air, the water, the light \u2014 something that
+    could only be heard once you truly listened. Theo smiled, soaring higher into
+    the golden morning, realizing that some melodies were meant only for those brave
+    enough to chase them. "

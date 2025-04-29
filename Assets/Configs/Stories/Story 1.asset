@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 56a58b26046dd6a499a07c1a4762db7c, type: 3}
+  m_Name: Story 1
+  m_EditorClassIdentifier: 
+  _image: {fileID: 21300000, guid: b5897804a9bbb174399f0757237537df, type: 3}
+  _title: Wings of Paper
+  _description: "When Noah was six years old, he dreamed of flying higher than the
+    clouds. But in his small village, airplanes were a rare sight, only appearing
+    as tiny silver specks in the sky. Every afternoon, Noah would sit by the fields,
+    folding colorful paper into little airplanes. Some were bright red, others deep
+    blue, each one carrying a secret wish scribbled inside the folds. He would launch
+    them into the wind, laughing as they danced and spiraled towards the sky. One
+    day, as Noah released a golden paper plane, a real airplane rumbled overhead
+    \u2014 a rescue pilot delivering supplies after a distant storm. The pilot, noticing
+    the flicker of gold, dipped his wings in greeting. To Noah, it felt like the
+    sky itself had answered his call. Years later, Noah became a pilot too. And in
+    his cockpit, tucked into the dashboard, he kept a tiny golden paper plane \u2014
+    a reminder that even the smallest dreams can one day touch the clouds. "

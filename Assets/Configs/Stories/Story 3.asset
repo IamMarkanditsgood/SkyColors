@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 56a58b26046dd6a499a07c1a4762db7c, type: 3}
+  m_Name: Story 3
+  m_EditorClassIdentifier: 
+  _image: {fileID: 21300000, guid: b73d7b41c63255149a643cb45423908b, type: 3}
+  _title: The Silent Goodbye
+  _description: "In a small coastal town, the airfield had only one runway and one
+    old hangar. It wasn\u2019t a place for grand takeoffs \u2014 only quiet arrivals
+    and heartfelt departures. Mr. Bennett, the town\u2019s mechanic, spent his days
+    repairing planes that carried families, supplies, and sometimes dreams. He was
+    known for his skill \u2014 but even more for his silence. No one ever heard him
+    boast or complain. He simply worked, smiled, and tightened every bolt with the
+    same care. One autumn evening, the community gathered for a farewell. A young
+    pilot, Emma, was leaving for her first long-distance journey across the sea \u2014
+    a dream she had chased since childhood. As she boarded her plane, she spotted
+    Mr. Bennett standing by the hangar, hands in his pockets, watching. He didn\u2019t
+    wave, and he didn\u2019t shout. But when Emma looked closer, she saw that he
+    had painted a small symbol on the side of her plane \u2014 a simple golden feather,
+    shining in the setting sun. It was his way of saying, \"Fly safe. Carry our hopes
+    with you.\" Emma smiled, touched the feather gently, and soared into the sky,
+    carrying her town\u2019s silent goodbye with her."

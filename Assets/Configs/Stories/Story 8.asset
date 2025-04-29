@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 56a58b26046dd6a499a07c1a4762db7c, type: 3}
+  m_Name: Story 8
+  m_EditorClassIdentifier: 
+  _image: {fileID: 21300000, guid: 190762d2ef3fc9543953cb553ebd012e, type: 3}
+  _title: The Lighthouse in the Sky
+  _description: "Far out at sea, there was a lonely island with a tiny airstrip and
+    a single lighthouse. Its light rarely reached the mainland \u2014 but for pilots
+    crossing the endless ocean, it was a beacon of hope. Captain Rosa was on her
+    longest solo flight, carrying important supplies to a distant archipelago. Night
+    was falling fast, and clouds thickened around her, hiding the stars. The radio
+    crackled, then fell silent. Her map showed nothing but water for miles \u2014
+    and her fuel was running low. Through the heavy mist, she caught a glimpse of
+    something \u2014 not a star, not lightning, but a steady, pulsing light. It was
+    the island lighthouse, piercing the fog like a heartbeat. Guided by that small,
+    stubborn light, Rosa descended and landed safely. As she stepped onto solid ground,
+    she looked up at the lighthouse and whispered, \"Thank you.\" Sometimes, she
+    thought, even the smallest light can save the biggest dreams. "

@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 56a58b26046dd6a499a07c1a4762db7c, type: 3}
+  m_Name: Story 4
+  m_EditorClassIdentifier: 
+  _image: {fileID: 21300000, guid: 18eefa131cb690045b27fadb5b5dc29f, type: 3}
+  _title: The First Flight
+  _description: "Lina always dreamed of flying. As a child, she built wings out of
+    cardboard and raced through the fields, imagining the clouds swirling around
+    her. Years later, standing on the edge of a small runway, she faced her real
+    dream: her very first solo flight. The little training plane in front of her
+    wasn\u2019t large or powerful \u2014 but to her, it was the most magnificent
+    machine in the world. Her instructor patted the side of the plane and simply
+    said, \"Trust the sky.\" No long speeches. No instructions. Just faith. As Lina
+    pulled back on the controls, the ground began to fall away. The rooftops, the
+    trees, the roads \u2014 all shrinking, while the sky grew wide and endless before
+    her. She laughed, a sound carried away by the rushing wind. She wasn\u2019t pretending
+    anymore. She was flying. Up there, with the golden horizon stretching forever,
+    Lina realized: it\u2019s not just machines that lift people into the sky. It\u2019s
+    dreams. It\u2019s courage."
